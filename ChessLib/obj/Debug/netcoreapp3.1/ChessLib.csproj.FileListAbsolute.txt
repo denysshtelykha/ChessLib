@@ -1,0 +1,18 @@
+C:\Users\denik\source\repos\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.deps.json
+C:\Users\denik\source\repos\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.dll
+C:\Users\denik\source\repos\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.pdb
+C:\Users\denik\source\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csprojAssemblyReference.cache
+C:\Users\denik\source\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfoInputs.cache
+C:\Users\denik\source\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfo.cs
+C:\Users\denik\source\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csproj.CoreCompileInputs.cache
+C:\Users\denik\source\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.dll
+C:\Users\denik\source\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.pdb
+C:\Visual Studio Projects\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.deps.json
+C:\Visual Studio Projects\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.dll
+C:\Visual Studio Projects\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.pdb
+C:\Visual Studio Projects\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csprojAssemblyReference.cache
+C:\Visual Studio Projects\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfo.cs
+C:\Visual Studio Projects\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.dll
+C:\Visual Studio Projects\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.pdb
